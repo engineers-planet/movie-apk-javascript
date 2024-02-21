@@ -3,9 +3,6 @@
 ## Description/Overview
 Popcorn Bits Cinema is a movie app made with HTML, CSS, Javascript, jQuery and Bootstrap. It pulls movies from The Movie Database using API calls. Users have the option to view the top playing movies, sort them by genre or search for other movies using the search function.
 
-[Live URL](http://www.dangconnie.com/movie-app/)
-
-[GitHub Repo](https://github.com/dangconnie/movie-app)
 
 ## Table of contents
 
